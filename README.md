@@ -28,3 +28,5 @@ The code can be easily extended to process bank statements from more banks. Ther
 2) To add a key/value pair to the `OPERATION_MAPPING` dictionary. The key consists of concatenated comma-separated headers. It allows to automatically select the method of mapping. 
 
 The code can also be extended to process bank statements in JSON and XML - it will only require changes in the way files are read. 
+
+&copy; Andrey Yashurin, 2021 yashurin@gmail.com
