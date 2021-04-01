@@ -1,4 +1,4 @@
-from .process import BankOperation
+from .config import BankOperation
 
 
 def test_bank_operation_mapping_1():
